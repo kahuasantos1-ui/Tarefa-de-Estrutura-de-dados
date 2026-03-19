@@ -1,7 +1,5 @@
 # Tarefa-de-Estrutura-de-dados
 
-# Tarefas de estruturas de dados 1
-
 19/03
 
 **1**
